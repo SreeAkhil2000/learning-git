@@ -3,4 +3,5 @@
 
 # Local Development 
 1. Open the "hello.py" file
+2. Run the file
 
